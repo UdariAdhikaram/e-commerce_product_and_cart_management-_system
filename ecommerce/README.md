@@ -52,3 +52,4 @@ Click the Continue Shopping button it will move to the Home page
 Step 06: After Clicking Continue Shopping Button
 ![alt text](/public/assets//images/screenshots/Capture6.PNG)
 
+
