@@ -51,4 +51,5 @@ Click the Continue Shopping button it will move to the Home page
 
 Step 06: After Clicking Continue Shopping Button
 ![alt text](/public/assets//images/screenshots/Capture6.PNG)
+![Alt text](https://raw.githubusercontent.com/adhi.uda98@gmail.com/e-commerce_product_and_cart_management_system/main/ecommerce/public/assets//images/screenshots/Capture6.PNG)
 
