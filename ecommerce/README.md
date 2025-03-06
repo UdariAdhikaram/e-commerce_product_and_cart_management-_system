@@ -32,6 +32,8 @@ Use Axios to interact with the backend.
 **Screenshots of the working application**
 Step 01: In Home Page Click the Shop Now Button
 ![alt text](/public/assets/images/screenshots/Capture1.PNG)
+![Alt text](https://raw.githubusercontent.com/UdariAdhikaram/e-commerce_product_and_cart_management_system/main/ecommerce/public/assets//images/screenshots/Capture3.PNG)
+
 
 Step 02: Show a list of products and allow users to add them to the cart.
 each product, display: Product name, Price, Available quantity, An "Add to Cart" button to add the product to the cart.
