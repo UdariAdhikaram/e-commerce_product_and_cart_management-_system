@@ -23,12 +23,6 @@ Use Axios to interact with the backend.
 *Run the Project* -> npm start
 
 
-**Any known issues or limitations**
-1.To products are displayed from the hardcoded data.
-2.I added products to the cart when i refresh the all products are remove from the cart.
-3.The place order did not complete. not in customer details or anything.
-4.API end points are created but did not connect to the frontend and backend.
-
 **Screenshots of the working application**
 Step 01: In Home Page Click the Shop Now Button
 ![Alt text](https://raw.githubusercontent.com/UdariAdhikaram/e-commerce_product_and_cart_management_system/main/ecommerce/public/assets//images/screenshots/Capture1.PNG)
