@@ -20,6 +20,8 @@ Use Material-UI components for a clean and modern design.
 *API Integration* -> npm install axios
 Use Axios to interact with the backend.
 
+npm install
+
 *Run the Project* -> npm start
 
 
